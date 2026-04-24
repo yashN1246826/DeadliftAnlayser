@@ -1,0 +1,10 @@
+venv/
+data/
+__pycache__/
+output/
+.DS_Store
+venv/
+data/
+__pycache__/
+output/
+.DS_Store
